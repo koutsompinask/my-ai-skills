@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend UI Style"
+  short_description: "Prevent bland, generic frontend UI"
+  default_prompt: "Use $frontend-ui-style to design or restyle a frontend so it has a clear visual identity instead of a generic default look."

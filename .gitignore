@@ -1,0 +1,6 @@
+/*
+!/skills/
+!/skills/**
+/skills/.system
+!.gitignore
+!README.md

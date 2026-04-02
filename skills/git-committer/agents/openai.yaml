@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Committer"
+  short_description: "Draft conventional commit messages"
+  default_prompt: "Use $git-committer to analyze staged changes and generate an informative Conventional Commits message."
