@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Worktrees"
+  short_description: "Create, merge, and clean up git worktrees"
+  default_prompt: "Use $git-worktree-management to manage a git worktree safely for this repo."
